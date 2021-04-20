@@ -1,2 +1,2 @@
-Abu uruchomić program, należy wejśc w folder \bin\Release\netcoreapp3.1, po czym uruchomić plik wykonywalny TaskMateuszCiechan.exe.
+Abu uruchomić program, należy pobrać repozytorium, rozpakować w wybrane miejsce, wejść w folder \bin\Release\netcoreapp3.1, po czym uruchomić plik wykonywalny TaskMateuszCiechan.exe.
 Po wykonaniu programu, w głównym folderze TaskMateuszCiechan, powinien pojawić się bardzo podstawowy plik tekstowy z wynikami testów. 
