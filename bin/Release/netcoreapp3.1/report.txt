@@ -1,0 +1,16 @@
+Succesful Login test passed succesfully - user logged in
+Expected value was: https://www.saucedemo.com/inventory.html
+Actual Value is: https://www.saucedemo.com/inventory.html
+
+Unsuccesful Login test passed succesfully - user not logged in after typing a bad password
+
+Locked user login test passed succesfully - locked user not logged in
+
+Login without username test passed - user not logged in without typing login
+
+Login without password test passed succesfully - user not logged in without typing password
+
+Add three items to cart test passed succesfully - number of added items is correct
+
+Removing item from cart test passed succesfully - number of added items is correct
+
